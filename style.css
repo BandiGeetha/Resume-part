@@ -1,0 +1,60 @@
+.center{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.normal{
+    font-weight: normal;
+}
+.Name{
+    text-align: center;
+    
+    font-size: 24px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.fa-solid{
+    color: black;
+    margin-left: 2px;
+    padding: 10px;
+
+
+}
+.fa-brands{
+    color: black;
+    margin-left: 2px;
+    padding: 10px;
+
+}
+.box{
+    border: 1px solid black;
+    margin: 2px;
+} 
+h2{
+    margin: 5px;
+}
+p{
+    margin: 20px;
+}
+h3{
+    margin: 5px;
+}
+.part-1{
+    text-align: left;
+    word-spacing: 1000px;
+}
+
+h2{
+background-color: rgb(192, 186, 186);
+    }
